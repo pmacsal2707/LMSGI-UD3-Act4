@@ -1,0 +1,116 @@
+{
+    "escuela": "IES los remedios",
+    "profesores": [
+      {
+        "id": 1,
+        "nombre": "Diego",
+        "edad": 35,
+        "asignaturas": [
+          {
+            "nombre": "Programacion",
+            "creditos": 8
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Juan Carlos",
+        "edad": 33,
+        "asignaturas": [
+          {
+            "nombre": "Base de datos",
+            "creditos": 37
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Jorge",
+        "edad": 33,
+        "asignaturas": [
+          {
+            "nombre": "Formación y orientación laboral",
+            "creditos": 37
+          }
+        ]
+      }
+    ],
+    "estudiantes": [
+      {
+        "id": 103,
+        "nombre": "Pablo Macias",
+        "edad": 18,
+        "asignaturas_cursadas": [
+          {
+            "asignatura": "Programación",
+            "calificacion": 8
+          },
+          {
+            "asignatura": "Formación y orientación laboral",
+            "calificacion": 8
+          },
+          {
+            "asignatura": "Base de datos",
+            "calificacion": 9
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "nombre": "Pablo Mangana",
+        "edad": 24,
+        "asignaturas_cursadas": [
+          {
+            "asignatura": "Programación",
+            "calificacion": 8
+          },
+          {
+            "asignatura": "Formación y orientación laboral",
+            "calificacion": 10
+          },
+          {
+            "asignatura": "Base de datos",
+            "calificacion": 9
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "nombre": "Alvaro",
+        "edad": 18,
+        "asignaturas_cursadas": [
+          {
+            "asignatura": "Programación",
+            "calificacion": 7
+          },
+          {
+            "asignatura": "Formación y orientación laboral",
+            "calificacion": 6
+          },
+          {
+            "asignatura": "Base de datos",
+            "calificacion": 8
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "nombre": "Marcos",
+        "edad": 17,
+        "asignaturas_cursadas": [
+          {
+            "asignatura": "Programación",
+            "calificacion": 5
+          },
+          {
+            "asignatura": "Formación y orientación laboral",
+            "calificacion": 10
+          },
+          {
+            "asignatura": "Base de datos",
+            "calificacion": 5
+          }
+        ]
+      }
+    ]
+  }

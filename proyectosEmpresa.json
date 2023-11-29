@@ -1,0 +1,42 @@
+{
+    "proyectos": [
+      {
+        "id": 1,
+        "nombre": "Sistema de Gestión",
+        "equipo": [
+          {"id": 101, "nombre": "Juan Pérez"},
+          {"id": 102, "nombre": "María Rodríguez"},
+          {"id": 107, "nombre": "Pablo Macías"}
+        ],
+        "tareas": [
+          {"id": 201, "descripcion": "Diseño de la interfaz", "completada": true},
+          {"id": 202, "descripcion": "Desarrollo del backend", "completada": true}
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Aplicación Móvil",
+        "equipo": [
+          {"id": 103, "nombre": "Carlos Gómez"},
+          {"id": 104, "nombre": "Ana López"}
+        ],
+        "tareas": [
+          {"id": 203, "descripcion": "Desarrollo de funciones principales", "completada": true},
+          {"id": 204, "descripcion": "Pruebas de rendimiento", "completada": true}
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Creación de elementos gráficos",
+        "equipo": [
+          {"id": 105, "nombre": "Carlos Gómez"},
+          {"id": 106, "nombre": "Ana López"}
+        ],
+        "tareas": [
+          {"id": 205, "descripcion": "Diseño de elementos gráficos", "completada": true},
+          {"id": 206, "descripcion": "Pruebas de rendimiento gráfico", "completada": true}
+        ]
+      }
+    ]
+  }
+
